@@ -6,4 +6,5 @@ class Category {
   final Color color;
 
   Category({required this.id, required this.title, this.color = Colors.orange});
+  
 }
